@@ -1,0 +1,59 @@
+#navbar{
+    background-color: black;
+    height: 5%;
+}
+
+#navbar_logo{
+    float: left;
+    display: inline;
+    list-style: none;
+    color: #ffc800;
+    margin-left: 80px;
+    font-size: 1.5rem;
+    margin-top: 10px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    
+      
+}
+
+.navbar_item {
+    float:right;
+    display: inline-block;
+}
+
+.navbar_item ol li{
+    display: inline-block;
+    list-style: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.navbar_item li:hover{
+    color:#ffc800;
+}
+
+#section1_bg{
+    background-color:F9F8FA;
+    width: auto;
+    height: 95%;
+    text-align: center;
+}
+
+.card{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+}
+
+.circle{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    margin:auto;
+    border: 6px solid rgb(204, 204, 204);
+}
+
